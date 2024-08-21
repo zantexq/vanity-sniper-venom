@@ -91,9 +91,9 @@ function handleWebSocketMessage(message) {
                 token: "MTI0OTA2ODc3ODAxNzUyMTc2Nw.GhNSEy.15OmPZzf4iYqVU0RvNfLESOXMoIgVOy3Vtb3dY",
                 intents: 1,
                 properties: {
-                    os: "macos",
-                    browser: "firefox",
-                    device: "mybot",
+                    os: "zante",
+                    browser: "zante",
+                    device: "zante",
                 },
             },
         };
